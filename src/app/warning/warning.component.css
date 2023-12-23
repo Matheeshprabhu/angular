@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+div{
+    color: red;
+    background-color: black;
+    width: 50%;
+    padding: 10px;
+}
